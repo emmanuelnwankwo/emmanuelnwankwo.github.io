@@ -27,7 +27,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   facebook: EmmaNwankwom
@@ -54,4 +54,4 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/7f96d7ea34ea0b21f159792a6a8f43b716b33379/topics/csharp/csharp.png
 
-theme: jekyll-theme-midnight
+
