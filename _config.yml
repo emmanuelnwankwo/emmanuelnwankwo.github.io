@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -29,7 +29,7 @@ projects:
 
 social_media:
   facebook: EmmaNwankwom
-  medium: "@emmanuelnwankwo"
+  medium: emmanuelnwankwo
   twitter: EmmaNwankwom
   # behance: your_username
   # dribbble: your_username 
