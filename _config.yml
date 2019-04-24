@@ -30,15 +30,15 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: EmmaNwankwom
+  facebook: EmmaNwankwom
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
-   medium: emmanuelnwankwo
+  medium: "@emmanuelnwankwo"
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: EmmaNwankwom
+  twitter: EmmaNwankwom
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -54,4 +54,4 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/7f96d7ea34ea0b21f159792a6a8f43b716b33379/topics/csharp/csharp.png
 
-#theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight
