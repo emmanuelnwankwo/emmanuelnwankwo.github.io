@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,21 +28,16 @@ projects:
     # - repo-name
 
  social_media:
-  # behance: your_username
-  # dribbble: your_username
   facebook: EmmaNwankwom
+  medium: "@emmanuelnwankwo"
+  twitter: EmmaNwankwom
+  # behance: your_username
+  # dribbble: your_username 
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
-  medium: "@emmanuelnwankwo"
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  twitter: EmmaNwankwom
-  # unsplash: your_username
-  # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
 
 topics:
   - name: Node.js
@@ -54,4 +49,4 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/7f96d7ea34ea0b21f159792a6a8f43b716b33379/topics/csharp/csharp.png
 
-
+theme: jekyll-theme-midnight
